@@ -367,6 +367,7 @@
 
 /*Grid md Start*/
 @media (max-width: 991px) {
+  .tabs li{display: flex; align-items: center;}
   body {font-size: 18px;}
   p {line-height: 1.8em;}
   .theme-main-menu.fixed {padding-top: 10px; padding-bottom: 10px;}
