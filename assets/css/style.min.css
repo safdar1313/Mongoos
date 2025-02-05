@@ -3017,6 +3017,11 @@ iframe {
   text-align: left;
   text-wrap: nowrap;
   overflow: hidden;
+  transition:0.6s;
+}
+.tabs button:hover{
+  background-color:#B4C747;
+  transition:0.6s;
 }
 .fancy-banner-seven img{
   animation: rotated 40s infinite linear;
