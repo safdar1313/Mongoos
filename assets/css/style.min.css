@@ -3027,7 +3027,7 @@ iframe {
   max-width: 11%;
   z-index: 0;
 }
-
+.fancy-banner-seven .bg-wrapper{height: 500px;align-items:center;}
 .fancy-banner-eight .media-wrapper {
   margin-bottom: -6px;
 }
@@ -9061,6 +9061,7 @@ body.compensate-for-scrollbar {
   transform: translateY(100%);
   transition: opacity 0.5s ease, transform 0.7s ease, visibility 0.5s;
 }
+.text{overflow: hidden;}
 .service4:hover .text {
   opacity: 1;
   visibility: visible;
@@ -9071,7 +9072,9 @@ body.compensate-for-scrollbar {
   border-radius: 20px;
   padding: 35px 35px 40px 35px;
   height: 280px;
+  overflow: hidden;
 }
+.card-style-twenty p{line-height: 1.3rem;}
 .service1 {
   background-image: url(../images/media/img_02.jpg);
   background-size: cover;
