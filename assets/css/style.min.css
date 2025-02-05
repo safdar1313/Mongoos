@@ -3016,7 +3016,7 @@ iframe {
   padding: 10px 20px 10px 20px;
   text-align: left;
   text-wrap: nowrap;
-  text-transform:uppercase;
+  text-transform:capitalize;
   overflow: hidden;
   transition:0.6s;
 }
