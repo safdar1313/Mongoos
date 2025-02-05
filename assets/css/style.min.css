@@ -2965,6 +2965,7 @@ iframe {
 .fancy-banner-seven .bg-wrapper {
   background: url(../images/media/img_50.jpg) no-repeat center;
   background-size: cover;
+  height: 450px;
 }
 .video-banner iframe{
   border-radius: 30px;
