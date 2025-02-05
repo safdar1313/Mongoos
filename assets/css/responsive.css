@@ -308,9 +308,11 @@
   .counter-block-three .main-count {font-size: 50px;}
   .card-style-twenty {padding: 30px 20px 25px;}
   .card-style-twenty .text {padding-left: 25px;}
-  .fancy-banner-seven .bg-wrapper li {padding: 18px 20px 20px 50px; font-size: 20px;}
   .fancy-banner-seven .bg-wrapper li:before {left: 15px; top:22px;}
   .fancy-banner-seven .bg-wrapper li:after {left: 18px; top:18px;}
+  .tabs button{font-size: 17px;}
+  .tabs li{margin-top: 10px !important;}
+  .fancy-banner-seven .bg-wrapper{padding-top: 150px !important;}
 }
 /*(max-width: 1199px)*/
 
@@ -480,7 +482,6 @@
   .block-feature-fourteen .section-subheading {position: static; width: 100%; text-align: center;}
   .feedback-section-seven .slider-arrows li {width: 50px; height: 50px;}
   .feedback-block-seven blockquote {font-size: 30px; line-height: 1.4em;}
-  .fancy-banner-eight .bg-wrapper {padding: 40px 20px 0;}
 }
 /*(max-width: 991px)*/
 
